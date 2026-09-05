@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default casino game will RANDOM
 ---
 
 # Contributing to Open Source Guides
@@ -41,7 +41,7 @@ If you'd like to contribute, start by searching through the [pull requests](http
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, open a pull request.
 
-## 💡 Quick Tip for Beginners
+## 💡 Quick Tip for Beginners BIGWIN
 
 1. Always create a new branch for your changes.
 2. Write clear commit messages.
@@ -53,7 +53,7 @@ If you don't see your idea listed, and you think it fits into the goals of this 
 
 If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the guides.
 
-## Setting up your environment
+## Setting up your environment RANDOM 
 
 This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/) along with [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
@@ -75,7 +75,7 @@ chmod +x script/server
 
 …and open <http://localhost:4000> in your web browser.
 
-## Community
+## Community for RANDOM
 
 Discussions about the Open Source Guides take place on this repository's [Pull Requests](https://github.com/github/opensource.guide/pulls) section. Anybody is welcome to join these conversations.
 
